@@ -1,0 +1,9 @@
+{
+    "name": "clean-bit-workspace",
+    "remotes": {},
+    "version": "1.0.175",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}
